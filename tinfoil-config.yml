@@ -1,5 +1,6 @@
 shim-version: v0.1.1@sha256:fcd0ba0ea3f0ca26d92595ea90f28308cfba819e3243925892e6c8f21eb1397d
 cvm-version: 0.4.1
+ovmf-version: 0.0.2
 cpus: 32
 memory: 524288
 gpus: full
